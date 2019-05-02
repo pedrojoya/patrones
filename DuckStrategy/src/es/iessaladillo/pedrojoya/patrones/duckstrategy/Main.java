@@ -2,6 +2,7 @@ package es.iessaladillo.pedrojoya.patrones.duckstrategy;
 
 import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.duck.*;
 import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.flybehavior.FlyNoWay;
+import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.flybehavior.FlyWithWings;
 import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.quackbehavior.Quack;
 
 class Main {
@@ -21,6 +22,8 @@ class Main {
         Duck rubberDuck = new RubberDuck("Duck 3");
         rubberDuck.display();
         rubberDuck.performQuack();
+        // Este pato de goma va a volar usando las alas.
+        rubberDuck.setFlyBehavior(new FlyWithWings());
         rubberDuck.performFly();
 
         Duck decoyDuck = new DecoyDuck("Duck 4");

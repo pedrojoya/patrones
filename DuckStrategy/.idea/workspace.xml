@@ -4,13 +4,7 @@
     <list default="true" id="b91d511f-d076-4d94-af6d-11771b02174f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../DatabaseEagerSingleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseEagerSingleton/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DatabaseEnumSingleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseEnumSingleton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/DecoyDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/DecoyDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RedheadDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RubberDuck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +17,15 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="54" selection-start-line="6" selection-end-line="54" />
+            <state relative-caret-position="114">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +36,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/MallardDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="228">
               <caret line="17" column="1" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -55,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RedheadDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="190">
               <caret line="14" column="64" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="64" />
             </state>
           </provider>
@@ -64,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RubberDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="228">
               <caret line="17" column="1" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
@@ -82,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/DecoyDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="190">
               <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
@@ -91,14 +84,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="382">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1195#1222#0" expanded="true" />
-                <element signature="e#1239#1240#0" expanded="true" />
-                <element signature="e#1323#1324#0" expanded="true" />
-                <element signature="e#1876#1903#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1636" />
     <option name="y" value="-76" />
     <option name="width" value="1440" />
@@ -334,17 +323,18 @@
       <updated>1555859580118</updated>
       <workItem from="1556611950790" duration="220000" />
       <workItem from="1556797642270" duration="163000" />
+      <workItem from="1556813263409" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383000" />
+    <option name="totallyTimeSpent" value="482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1636" y="-76" width="1440" height="877" extended-state="0" />
+    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19382322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +343,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3284974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,19 +405,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="54" selection-start-line="6" selection-end-line="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="228">
           <caret line="17" column="1" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -437,14 +417,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RedheadDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="190">
           <caret line="14" column="64" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/RubberDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="228">
           <caret line="17" column="1" selection-start-line="6" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
@@ -458,7 +438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/DecoyDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="190">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
@@ -487,16 +467,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/model/duck/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1195#1222#0" expanded="true" />
-            <element signature="e#1239#1240#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-            <element signature="e#1876#1903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/patrones/duckstrategy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
