@@ -4,7 +4,7 @@ import es.iessaladillo.pedrojoya.sandwichsimplebuilder.product.ingredients.Condi
 import es.iessaladillo.pedrojoya.sandwichsimplebuilder.product.ingredients.Meat;
 import es.iessaladillo.pedrojoya.sandwichsimplebuilder.product.ingredients.Sauce;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         // We use a diferent builder for each sandwich.

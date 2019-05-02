@@ -3,7 +3,7 @@ import es.iessaladillo.pedrojoya.sanwichbuilder.director.SandwichDirector;
 import es.iessaladillo.pedrojoya.sanwichbuilder.product.Sandwich;
 import es.iessaladillo.pedrojoya.sanwichbuilder.product.SandwichType;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         SandwichDirector director = new SandwichDirector(new GambrinusSandwichBuilder());

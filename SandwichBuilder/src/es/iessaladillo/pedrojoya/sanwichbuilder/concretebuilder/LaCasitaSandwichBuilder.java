@@ -6,6 +6,7 @@ import es.iessaladillo.pedrojoya.sanwichbuilder.product.ingredients.Condiment;
 import es.iessaladillo.pedrojoya.sanwichbuilder.product.ingredients.Meat;
 import es.iessaladillo.pedrojoya.sanwichbuilder.product.ingredients.Sauce;
 
+@SuppressWarnings("unused")
 public class LaCasitaSandwichBuilder extends Sandwich.Builder {
 
     private static final String LA_CASITA_STYLE = "La Casita";

@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadaebf9-6cd7-4490-884d-f2d4d4834d1f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../DatabaseEagerSingleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseEagerSingleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseEnumSingleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DatabaseEnumSingleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/builder/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/builder/META-INF/builder.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/concretebuilder/GambrinusSandwichBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/concretebuilder/GambrinusSandwichBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/concretebuilder/LaCasitaSandwichBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/concretebuilder/LaCasitaSandwichBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/out/production/builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/out/production/builder/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/out/production/builder/es/iessaladillo/pedrojoya/sandwichsimplebuilder/product/Sandwich$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/out/production/builder/es/iessaladillo/pedrojoya/sandwichsimplebuilder/product/Sandwich$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/out/production/builder/META-INF/builder.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SandwichSimpleBuilder/src/es/iessaladillo/pedrojoya/sandwichsimplebuilder/product/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SandwichSimpleBuilder/src/es/iessaladillo/pedrojoya/sandwichsimplebuilder/product/Sandwich.java" afterDir="false" />
     </list>
@@ -22,12 +27,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="551">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#451#478#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,9 +65,12 @@
     <findStrings>
       <find>join</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -82,15 +103,16 @@
         <option value="$PROJECT_DIR$/src/sandwich/concretebuilder/GambrinusSandwichBuilder.java" />
         <option value="$PROJECT_DIR$/src/sandwich/concretebuilder/LaCasitaSandwichBuilder.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java" />
         <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java" />
+        <option value="$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="x" value="-1919" />
+    <option name="y" value="-157" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,7 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,39 +137,12 @@
               <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
               <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
-              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
-              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
               <item name="sanwichbuilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
               <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
-              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
               <item name="sanwichbuilder" type="462c0819:PsiDirectoryNode" />
               <item name="director" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -155,9 +150,6 @@
               <item name="SandwichBuilder" type="b2602c69:ProjectViewProjectNode" />
               <item name="SandwichBuilder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="es" type="462c0819:PsiDirectoryNode" />
-              <item name="iessaladillo" type="462c0819:PsiDirectoryNode" />
-              <item name="pedrojoya" type="462c0819:PsiDirectoryNode" />
               <item name="sanwichbuilder" type="462c0819:PsiDirectoryNode" />
               <item name="product" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -165,16 +157,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553069663044" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveInnerDialog.RECENTS_KEY">
@@ -199,33 +195,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -247,6 +216,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -287,6 +257,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -319,14 +290,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522662318412</updated>
+      <workItem from="1556795837569" duration="285000" />
+      <workItem from="1556796237234" duration="123000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19808307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11341853" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -336,7 +312,7 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32733813" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27021697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26943004" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39940828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -347,7 +323,9 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32938856" />
       <window_info anchor="bottom" id="Run with VisualVM" order="11" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="12" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32938856" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.3284974" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,7 +336,16 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,20 +443,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java">
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="551">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/director/SandwichDirector.java">
+    <entry file="file://$PROJECT_DIR$/src/es/iessaladillo/pedrojoya/sanwichbuilder/product/Sandwich.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="259">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#478#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
