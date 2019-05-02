@@ -6,13 +6,13 @@ import es.iessaladillo.pedrojoya.carfactory.factory.SpenderCarFactory;
 import es.iessaladillo.pedrojoya.carfactory.product.Car;
 import es.iessaladillo.pedrojoya.carfactory.utils.console.ConsoleInput;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         new Main();
     }
 
-    Main() {
+    private Main() {
         // We can change in runtime the car creation criteria (the factory
         // to use).
         CarFactory carFactory = requestCarFactory();

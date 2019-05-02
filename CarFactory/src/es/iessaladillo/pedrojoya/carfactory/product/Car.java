@@ -1,5 +1,6 @@
 package es.iessaladillo.pedrojoya.carfactory.product;
 
+@SuppressWarnings("unused")
 public abstract class Car {
 
     private final String modelName;

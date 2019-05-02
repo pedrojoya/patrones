@@ -3,7 +3,7 @@ package es.iessaladillo.pedrojoya.carsimplefactory;
 import es.iessaladillo.pedrojoya.carsimplefactory.factory.CarFactory;
 import es.iessaladillo.pedrojoya.carsimplefactory.product.Car;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         // We can't change the logic associated with car creation at
