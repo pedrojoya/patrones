@@ -31,6 +31,7 @@ class Main {
         // En este caso creamos un tipo de pato sobre la marcha
         // y le configuramos su estrategia de vuelo y su estrategia de granznido.
         Duck robotDuck = new Duck("Duck 5", new FlyNoWay(), new Quack()) {
+            @SuppressWarnings("unused")
             @Override
             public void display() {
                 System.out.printf("%s is a robot duck\n", getName());
@@ -46,6 +47,7 @@ class Main {
         Duck jetPackDuck = new Duck("Duck 6",
                 duck -> System.out.printf("%s vuela en un jetpack\n", duck.getName()),
                 duck -> System.out.printf("%s hace flushhhhhhh\n", duck.getName())) {
+            @SuppressWarnings("unused")
             @Override
             public void display() {
                 System.out.printf("%s es un jetPack duck\n", getName());

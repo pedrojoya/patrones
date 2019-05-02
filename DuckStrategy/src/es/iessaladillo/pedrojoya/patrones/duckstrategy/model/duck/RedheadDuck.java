@@ -3,6 +3,7 @@ package es.iessaladillo.pedrojoya.patrones.duckstrategy.model.duck;
 import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.flybehavior.FlyNoWay;
 import es.iessaladillo.pedrojoya.patrones.duckstrategy.model.quackbehavior.Quack;
 
+@SuppressWarnings("unused")
 public class RedheadDuck extends Duck {
 
     public RedheadDuck(String name) {
