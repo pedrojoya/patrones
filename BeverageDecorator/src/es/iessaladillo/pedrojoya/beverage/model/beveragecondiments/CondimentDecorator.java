@@ -12,12 +12,13 @@ import java.math.BigDecimal;
 public abstract class CondimentDecorator extends Beverage {
 
     // Contiene una bebida, a la que decora
+    @SuppressWarnings("WeakerAccess")
     protected final Beverage beverage;
 
     // Dado que los ingredientes reciben en el constructor la bebida que
     // deben decorar, es imposible que el cliente cree como una bebida algo que
     // no lleve una bebida base.
-    public CondimentDecorator(String description, Beverage beverage) {
+    CondimentDecorator(String description, Beverage beverage) {
         super(description);
         this.beverage = beverage;
     }

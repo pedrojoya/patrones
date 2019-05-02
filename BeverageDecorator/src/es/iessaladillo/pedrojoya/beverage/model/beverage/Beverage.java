@@ -7,7 +7,7 @@ public abstract class Beverage {
 
     protected final String description;
 
-    public Beverage(String description) {
+    protected Beverage(String description) {
         this.description = description;
     }
 

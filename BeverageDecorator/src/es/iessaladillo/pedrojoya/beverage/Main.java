@@ -10,7 +10,7 @@ import es.iessaladillo.pedrojoya.beverage.model.beveragecondiments.Whip;
 
 import java.text.NumberFormat;
 
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         // Dark roast with mocka
